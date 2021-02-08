@@ -6,5 +6,6 @@ public class Demo {
 		System.out.println("dev2");
 		System.out.println("client");
 		System.out.println("test1");
+		System.out.println("test2");
 	}
 }
