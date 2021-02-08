@@ -4,7 +4,5 @@ public class Demo {
 		
      System.out.println("dev1");
 		System.out.println("dev2");
-		System.out.println("tester1");
-		System.out.println("test2");
 	}
 }
